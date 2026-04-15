@@ -1,4 +1,4 @@
-# DataMining FD1 - Application Streamlit
+# DataMining 
 
 Application de fouille de donnees developpee avec Streamlit pour le module Data Mining (FD1). L'application propose des outils de pretraitement, de clustering non supervise et de classification supervisee.
 
