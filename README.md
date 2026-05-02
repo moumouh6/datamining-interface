@@ -103,21 +103,6 @@ Algorithmes de clustering implementes :
 
 ### Volet 3 - Classification
 
-Algorithmes de classification :
-
-| Algorithme | Hyperparametres ajustables |
-|------------|---------------------------|
-| **K-Nearest Neighbors** | Nombre de voisins k |
-| **Arbre de Decision** | Profondeur maximale |
-| **Naive Bayes** | - (gaussien) |
-| **SVM** | Parametre C |
-| **Regression Logistique** | - (max_iter=1000) |
-
-**Metriques calculees :**
-- Accuracy, Precision, Recall, F1-Score
-- Matrice de confusion (heatmap)
-- Rapport de classification detaille
-
 ---
 
 ## Workflow d'utilisation
@@ -136,11 +121,7 @@ Algorithmes de classification :
 - Testez differents algorithmes
 - Comparez les scores de silhouette
 
-**Pour la classification :**
-- Selectionnez la variable cible
-- Ajustez la taille du test set
-- Configurez les hyperparametres
-- Analysez la matrice de confusion
+
 
 ---
 
