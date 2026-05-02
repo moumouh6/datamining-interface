@@ -1,4 +1,4 @@
-# DataMining FD1 - Application Streamlit
+# DataMining 
 
 Application de fouille de donnees developpee avec Streamlit pour le module Data Mining (FD1). L'application propose des outils de pretraitement, de clustering non supervise et de classification supervisee.
 
@@ -25,7 +25,7 @@ Application de fouille de donnees developpee avec Streamlit pour le module Data 
 ### Etape 1 : Cloner ou telecharger le projet
 
 ```bash
-cd Projet_fd
+cd datamining-interface
 ```
 
 ### Etape 2 : Creer un environnement virtuel (recommande)
@@ -144,7 +144,7 @@ DIANA (DIvisive ANAlysis) est simule via AgglomerativeClustering avec linkage='c
 ## Structure du projet
 
 ```
-Projet_fd/
+datamining-interface/
 |
 |-- app.py                  # Application principale Streamlit
 |-- Readme.md              # Documentation (ce fichier)
